@@ -24,7 +24,7 @@ int a[7][7] = {
          /   \
         5     6
     */
-    // adjacency matrx representation of the above graph
+    // adjacency matrix representation of the above graph
 
 void DFS(int i){
     int j;
