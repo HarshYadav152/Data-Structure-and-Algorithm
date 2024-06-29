@@ -78,7 +78,7 @@ int main()
      /   \
     5     6
 */
-    // adjacency matrx representation of the above graph
+    // adjacency matrix representation of the above graph
     int a[7][7] = {
         {0,1,1,1,0,0,0},
         {1,0,0,1,0,0,0},
